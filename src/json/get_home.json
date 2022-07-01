@@ -1,0 +1,54 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": {
+    "nombre": "Edinson",
+    "fecha": "23/11/2021",
+    "saldoAcumulado": "226707.86",
+    "tipoCuenta": "121213.55",
+    "rentabilidadAcumulada": "117.43",
+    "tipoComision": "Flujo",
+    "comisionAcumulada": "0",
+    "tipoFondo": {
+      "OBL": {
+        "aportesacumulados": "117798.9",
+        "fondo": "3",
+        "subtitulo": "",
+        "rendimiento": "120553.19",
+        "comision": "0",
+        "titulo": "Fondo\nObligatorio",
+        "saldo": "226707.86",
+        "valorcuota": "52.8373648",
+        "cargo": "-11644.23",
+        "totalcuotas": "4290.6730989"
+      },
+      "VSFP": {
+        "aportesacumulados": "929.27",
+        "fondo": "2",
+        "subtitulo": "Sin Fin Previsional",
+        "rendimiento": "655.22",
+        "comision": "-117.76",
+        "titulo": "Fondo\nVoluntario",
+        "saldo": "1466.73",
+        "valorcuota": "221.1099095",
+        "cargo": "0",
+        "totalcuotas": "6.6335097"
+      },
+      "VCFP": {
+        "aportesacumulados": "4.1",
+        "fondo": "3",
+        "subtitulo": "Con Fin Previsional",
+        "rendimiento": "5.14",
+        "comision": "-0.42",
+        "titulo": "Fondo\nVoluntario",
+        "saldo": "52.8373648",
+        "valorcuota": "52.8373648",
+        "cargo": "0",
+        "totalcuotas": "0.1670055"
+      }
+    },
+    "nombreAsesor": "Mario Ramírez López",
+    "correoAsesor": "marioramirezL@profuturoafp.com",
+    "numeroAsesor": "967261142"
+  }
+}

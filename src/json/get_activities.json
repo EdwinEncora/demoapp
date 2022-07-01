@@ -1,0 +1,42 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "movimientoAfiliados": [
+    {
+      "fecha": "16/12/2020",
+      "devengue": "01/20",
+      "detalle": "Disposición hasta 4UIT Ley N° 31068",
+      "monto": "-4300.00"
+    },
+    {
+      "fecha": "24/06/2020",
+      "devengue": "02/20",
+      "detalle": "Entrega Ext. Facult. Ley 31017",
+      "monto": "-2455.00"
+    },
+    {
+      "fecha": "28/05/2020",
+      "devengue": "03/20",
+      "detalle": "Entrega Ext. Facult. Ley 31017",
+      "monto": "-2455.00"
+    },
+    {
+      "fecha": "07/04/2020",
+      "devengue": "04/20",
+      "detalle": "Retiro Ext. DU 034-2020",
+      "monto": "-2000.00"
+    },
+    {
+      "fecha": "07/04/2020",
+      "devengue": "04/20",
+      "detalle": "Retiro Ext. DU 034-2020",
+      "monto": "-2000.00"
+    },
+    {
+      "fecha": "07/04/2020",
+      "devengue": "04/20",
+      "detalle": "Retiro Ext. DU 034-2020",
+      "monto": "-2000.00"
+    }
+  ]
+}

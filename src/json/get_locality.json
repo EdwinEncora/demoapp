@@ -1,0 +1,54 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": [
+    {
+      "codLista": "",
+      "descripcionLista": "Fundo"
+    },
+    {
+      "codLista": "",
+      "descripcionLista": "Comunidad"
+    },
+    {
+      "codLista": "",
+      "descripcionLista": "A.A.H.H."
+    },
+    {
+      "codLista": "",
+      "descripcionLista": "P.P.J.J."
+    },
+    {
+      "codLista": "",
+      "descripcionLista": "ASOC."
+    },
+    {
+      "codLista": "",
+      "descripcionLista": "ZN."
+    },
+    {
+      "codLista": "",
+      "descripcionLista": "GRP."
+    },
+    {
+      "codLista": "",
+      "descripcionLista": "SECT."
+    },
+    {
+      "codLista": "",
+      "descripcionLista": "CONJ. HAB."
+    },
+    {
+      "codLista": "",
+      "descripcionLista": "JR."
+    },
+    {
+      "codLista": "",
+      "descripcionLista": "AV."
+    },
+    {
+      "codLista": "",
+      "descripcionLista": "CALLE"
+    }
+  ]
+}

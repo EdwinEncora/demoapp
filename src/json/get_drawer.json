@@ -1,0 +1,24 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": {
+    "Menu": [
+      {
+        "codigo": "OPC0142",
+        "descripcion": "Mi cuenta"
+      },
+      {
+        "codigo": "OPC0144",
+        "descripcion": "Fondos profuturo"
+      },
+      {
+        "codigo": "OPC0146",
+        "descripcion": "Mi perfil"
+      },
+      {
+        "codigo": "OPC0149",
+        "descripcion": "Cerrar Sesión"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "codigo": 200,
+    "mensaje": "",
+    "data": [
+      {
+        "codOpcion": "01",
+        "desOpcion": "Venta de inmuebles"
+      },
+      {
+        "codOpcion": "02",
+        "desOpcion": "Hipotecas"
+      }
+    ]
+  }

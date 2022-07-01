@@ -1,0 +1,26 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": [
+    {
+      "codOpcion": "01",
+      "desOpcion": "BARRANCA"
+    },
+    {
+      "codOpcion": "02",
+      "desOpcion": "SUPE"
+    },
+    {
+      "codOpcion": "03",
+      "desOpcion": "PATIVILCA"
+    },
+    {
+      "codOpcion": "04",
+      "desOpcion": "PARAMONGA"
+    },
+    {
+      "codOpcion": "05",
+      "desOpcion": "SUPE PUERTO"
+    }
+  ]
+}

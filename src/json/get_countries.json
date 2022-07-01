@@ -1,0 +1,22 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": [
+    {
+      "codOpcion": "",
+      "desOpcion": "ARGENTINA"
+    },
+    {
+      "codOpcion": "",
+      "desOpcion": "ALEMANIA"
+    },
+    {
+      "codOpcion": "",
+      "desOpcion": "MEXICO"
+    },
+    {
+      "codOpcion": "",
+      "desOpcion": "PERÚ"
+    }
+  ]
+}

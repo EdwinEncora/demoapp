@@ -1,0 +1,13 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": {
+    "disponibilidadAporte": "false",
+    "montoMaximoLength": "5",
+    "montoMaximoSoles": "10000",
+    "montoMinimoSoles": "1.0",
+    "mostrarOpcionDA": "false",
+    "periodo": "",
+    "toolTipDa": ""
+  }
+}

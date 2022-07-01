@@ -1,0 +1,50 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": [
+    {
+      "codSector": "001",
+      "descripcion": "Cargos Diplomáticos"
+    },
+    {
+      "codSector": "002",
+      "descripcion": "Empresas del Estado"
+    },
+    {
+      "codSector": "003",
+      "descripcion": "Empresas Públicas/Reguladores/Supervisores"
+    },
+    {
+      "codSector": "004",
+      "descripcion": "FFAA Y Policia"
+    },
+    {
+      "codSector": "005",
+      "descripcion": "Gobierno Central"
+    },
+    {
+      "codSector": "006",
+      "descripcion": "Gobierno: Regional, Distrital, Municipal, Local"
+    },
+    {
+      "codSector": "007",
+      "descripcion": "Organización Internacional"
+    },
+    {
+      "codSector": "008",
+      "descripcion": "Partido Político y Alianzas Políticas"
+    },
+    {
+      "codSector": "009",
+      "descripcion": "Poder Judicial/Ministerio Público"
+    },
+    {
+      "codSector": "010",
+      "descripcion": "Poder Legislativo"
+    },
+    {
+      "codSector": "011",
+      "descripcion": "No declara"
+    }
+  ]
+}

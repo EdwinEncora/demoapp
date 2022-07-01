@@ -1,0 +1,22 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": [
+    {
+      "codCargo": "257",
+      "descripcion": "Presidente del Consejo de Ministros"
+    },
+    {
+      "codCargo": "01",
+      "descripcion": "Posición 2"
+    },
+    {
+      "codCargo": "02",
+      "descripcion": "Posición 3"
+    },
+    {
+      "codCargo": "03",
+      "descripcion": "Posición 4"
+    }
+  ]
+}

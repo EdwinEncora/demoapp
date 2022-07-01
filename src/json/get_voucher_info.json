@@ -1,0 +1,48 @@
+{
+    "codigo": 200,
+    "mensaje": "",
+    "voucherInfo": [
+      {
+        "voucher":"Doc. Emitidos por AFP",
+        "fecha":"2021-03",
+        "serie":"B009-00022906",
+        "fechaEmision": "30/03/21",
+        "monto": "159.73"
+      },
+      {
+        "voucher":"Doc. Emitidos por AFP",
+        "fecha":"2021-03",
+        "serie":"B009-00022906",
+        "fechaEmision": "30/03/21",
+        "monto": "159.73"
+      },
+      {
+        "voucher":"Doc. Emitidos por AFP",
+        "fecha":"2021-03",
+        "serie":"B009-00022906",
+        "fechaEmision": "30/03/21",
+        "monto": "159.73"
+      },
+      {
+        "voucher":"Doc. Emitidos por AFP",
+        "fecha":"2021-03",
+        "serie":"B009-00022906",
+        "fechaEmision": "30/03/21",
+        "monto": "159.73"
+      },
+      {
+        "voucher":"Doc. Emitidos por AFP",
+        "fecha":"2021-03",
+        "serie":"B009-00022906",
+        "fechaEmision": "30/03/21",
+        "monto": "159.73"
+      },
+      {
+        "voucher":"Doc. Emitidos por AFP",
+        "fecha":"2021-03",
+        "serie":"B009-00022906",
+        "fechaEmision": "30/03/21",
+        "monto": "159.73"
+      }
+    ]
+  }

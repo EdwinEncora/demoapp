@@ -1,0 +1,15 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": [
+    {
+      "fondo": "3",
+      "dato1": "0.0",
+      "leyenda1": "",
+      "dato2": "0.0",
+      "leyenda2": "",
+      "dato3": "0.0",
+      "leyenda3": ""
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "access_token": "eyJhbGciOiJSUzI1NiJ9.eyJpbmRpY2Fkb3JCbG9xdWVvIjpudWxsLCJ1c2VyX25hbWUiOiIwODI1Mjg2NiIsImNhdGVnb3JpYSI6bnVsbCwic29saWNpdHVkZGV2IjpudWxsLCJjdXNwcCI6bnVsbCwiYXV0aG9yaXRpZXMiOlsiVVNFUiJdLCJjbGllbnRfaWQiOiJtb2JpbGVfYXBwIiwidGlwb0RvY3VtZW50byI6IjAwIiwiZXNFeHBlcmllbmNpYXMiOiJmYWxzZSIsInNjb3BlIjpbInNlbGYiXSwiY3VlbnRhIjpudWxsLCJ0aXBvQ3VlbnRhIjpudWxsLCJudW1lcm9Eb2N1bWVudG8iOiIwODI1Mjg2NiIsImV4cCI6MTYyNzQwNzgxMCwianRpIjoiMzZkOWUyOTItZmFkMC00NjYzLWI3ZDktNGE3OTlmODc2MmQzIiwicnB0YSI6bnVsbH0.Mqbbgm897tbLceVKWMmmcszHpCOMkXYanq-ojbcf0DxMtQmKsgYrMEmDCQorYltbBUOecdEn91Z9PLyg4X3NELa_JvUF28iCMFsnNB_Eqp3bozSlc8VSvobtekvcVS_YxYzXmVt-6ZYNCbON_gZQJc1Bh4Nw2gla6RADj1O0Wg4M_dYxpVyCPF8n4dEoNtLEXg_JR5bYsE-vEgvPo7xkLibvxP7C8NdEovjItjF3oG5lAA9oURU9Qfmu4r5iotQuXo8brjrqBct0CSc7aGduyjqvLHc2xgw2hSgtWY9EGPCDNe6hfxk4xv9-qxTGUR6cQm-2eIxp2tD6al1F83W4zw",
+  "token_type": "bearer",
+  "expires_in": 1799,
+  "scope": "self",
+  "esExperiencias": "false",
+  "indicadorBloqueo": null,
+  "categoria": null,
+  "cuenta": null,
+  "solicituddev": null,
+  "tipoCuenta": "I",
+  "rpta": "true",
+  "jti": "254bc66c-5e73-4798-b5e6-597351e4f8bf",
+  "data": {
+    "numeroDocumento": "01111111",
+    "cuspp": "241341EPVCQ0",
+    "tipoDocumento": "00",
+    "correo": "JP*****@PROFUTURO.COM.PE",
+    "telefono": "",
+    "primApellido": "CMOBOLS",
+    "segApellido": "PSVJMUQ",
+    "segNombre": "RICARDO",
+    "primNombre": "EDINSON",
+    "esPremium": "false"
+  }
+}

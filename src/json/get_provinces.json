@@ -1,0 +1,46 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": [
+    {
+      "codOpcion": "01",
+      "desOpcion": "LIMA"
+    },
+    {
+      "codOpcion": "02",
+      "desOpcion": "BARRANCA"
+    },
+    {
+      "codOpcion": "03",
+      "desOpcion": "CAÑETE"
+    },
+    {
+      "codOpcion": "04",
+      "desOpcion": "HUAROCHIRI"
+    },
+    {
+      "codOpcion": "05",
+      "desOpcion": "HUAURA"
+    },
+    {
+      "codOpcion": "06",
+      "desOpcion": "OYÓN"
+    },
+    {
+      "codOpcion": "07",
+      "desOpcion": "CAJATAMBO"
+    },
+    {
+      "codOpcion": "08",
+      "desOpcion": "CANTA"
+    },
+    {
+      "codOpcion": "09",
+      "desOpcion": "HUARAL"
+    },
+    {
+      "codOpcion": "10",
+      "desOpcion": "YAUYOS"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": [
+    {
+      "id": "00",
+      "descripcion": "DNI"
+    },
+    {
+      "id": "01",
+      "descripcion": "Carnet de Extranjería"
+    },
+    {
+      "id": "02",
+      "descripcion": "Pasaporte"
+    },
+    {
+      "id": "03",
+      "descripcion": "Permiso temporal de Permanencia"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "codigo": 200,
+  "mensaje": "Envío exitoso",
+  "data": {
+    "rpta": true
+  }
+}

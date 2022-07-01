@@ -1,0 +1,21 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": [
+    {
+      "codOpcion": "1",
+      "desOpcion": "12 meses",
+      "numeroAnno": 12
+    },
+    {
+      "codOpcion": "2",
+      "desOpcion": "24 meses",
+      "numeroAnno": 24
+    },
+    {
+      "codOpcion": "3",
+      "desOpcion": "36 meses",
+      "numeroAnno": 36
+    }
+  ]
+}

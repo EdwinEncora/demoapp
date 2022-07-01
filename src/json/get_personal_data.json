@@ -1,0 +1,14 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": {
+    "apeMaterno": "PSVJMUQ",
+    "apePaterno": "CMOBOLS",
+    "cuspp": "241341EPVCQ0",
+    "fecNacimiento": "29/01/1966",
+    "numDocume": "01111111",
+    "primerNombre": "EDINSON",
+    "segundoNombre": "RICARDO",
+    "detDireccion": "Calle Andrés Reyes 756 Dpto. 507 San Isidro"
+  }
+}

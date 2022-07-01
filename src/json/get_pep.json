@@ -1,0 +1,24 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": {
+    "cuspp": "241341EPVCQ0",
+    "datosCargo": {
+      "cargos": [
+        {
+          "cargo": "Presidente del Consejo de Ministros",
+          "codCargo": "-1",
+          "codLaboral": "0006",
+          "codSector": "-1",
+          "publico": "S",
+          "razonSocial": "UNIVERSIDAD NACIONAL SAN MARTIN",
+          "sector": null
+        }
+      ],
+      "profesion": "Ingeniero de software"
+    },
+    "datosPep": {
+      "esPep": "SI"
+    }
+  }
+}

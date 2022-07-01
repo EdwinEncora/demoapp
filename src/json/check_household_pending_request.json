@@ -1,0 +1,8 @@
+{
+  "codigo": 200,
+  "mensaje": "OK",
+  "data": {
+    "validacion": "O0OqskpuGEc47bq3iunfgnF\/g37gXJgjDclWZtb6GwxdeXn3sHfmCo8NZlGden8wexypW0KjlCKlHqo5uqNgOMkVzi2O3Q6b+t8JAdNCdCyioqT89hVFpxrBJF15Tmg17yK4PgUNDL\/dYt90VdnINGslCunqqZ53GDKrwTp3jGfFP8o05ZNIszVHnT4UvlJOYdxLWK2KVI1m9wWzHXdlzFDhFoWyGMr1F0WAZoEMtmMjGhmJvKbmSNC7rT64Yq5oZCoOTFVnjJ1c0\/MtfN\/LcBRThXnNJzBGTj5I+fjzMlmynUfz6TUAGheckM5+QbqkzXHTxYcb4U6toxlPmldbOg==",
+    "mensaje": "Por el momento no puedes hacer una actualización, por que ya tienes una solictud de actualización de datos personales en proceso."
+  }
+}

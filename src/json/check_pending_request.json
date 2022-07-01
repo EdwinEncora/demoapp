@@ -1,0 +1,8 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": {
+    "verificacion": "BX4nh428JRQNUraj4+TSj8y872u9wX0M3EJs1dDR+1eqEaJdZkJUS54XWoKjmRYaqEjlNPb8MmfxV5LjyP+5FcGpi6bMwRQc9nOUfSZgXCi+HG0NdVWskfHl7sgopZjq+4nKHPVsY0A2tsMEJ0r9rIcTZAFN5rA0H6VJmt2DtXgjJesLAdnepp+ka6sK1mnxAqdyiRH+WUR6I6fGS1x2+E+IKEk8z25\/oTaoWesN+\/TpsenEEl7KxtDUlwi18HWESjFFIDApOJ7bId9+lu9aU+SJ7pZcPLTND34xCmDF0HlEVBhHwOY1B9lXU6qjP59uxHwa6Zb1Bl41uljcOlAKmQ==",
+    "mensaje": "No se pueden actualizar tus\ndatos, ya que existe una solicitud de actualización en proceso."
+  }
+}

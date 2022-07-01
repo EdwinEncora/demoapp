@@ -1,0 +1,98 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": {
+    "datos": [
+      {
+        "fecha": "12/20",
+        "valorFondo0": "10.858417",
+        "valorFondo1": "80.3953736",
+        "valorFondo2": "20.3953736",
+        "valorFondo3": "27.3953736"
+      },
+      {
+        "fecha": "01/21",
+        "valorFondo0": "28.0368218",
+        "valorFondo1": "50.3953736",
+        "valorFondo2": "30.3953736",
+        "valorFondo3": "30.3953736"
+      },
+      {
+        "fecha": "02/21",
+        "valorFondo0": "40.1170281",
+        "valorFondo1": "20.3953736",
+        "valorFondo2": "40.3953736",
+        "valorFondo3": "40.3953736"
+      },
+      {
+        "fecha": "03/21",
+        "valorFondo0": "70.3953736",
+        "valorFondo1": "10.3953736",
+        "valorFondo2": "50.3953736",
+        "valorFondo3": "50.3953736"
+      },
+      {
+        "fecha": "04/21",
+        "valorFondo0": "30.3953736",
+        "valorFondo1": "50.3953736",
+        "valorFondo2": "60.3953736",
+        "valorFondo3": "60.3953736"
+      },
+      {
+        "fecha": "05/21",
+        "valorFondo0": "5.3953736",
+        "valorFondo1": "10.3953736",
+        "valorFondo2": "70.3953736",
+        "valorFondo3": "50.3953736"
+      },
+      {
+        "fecha": "06/21",
+        "valorFondo0": "40.3953736",
+        "valorFondo1": "40.3953736",
+        "valorFondo2": "30.3953736",
+        "valorFondo3": "40.3953736"
+      },
+      {
+        "fecha": "07/21",
+        "valorFondo0": "60.3953736",
+        "valorFondo1": "50.3953736",
+        "valorFondo2": "20.3953736",
+        "valorFondo3": "50.3953736"
+      },
+      {
+        "fecha": "08/21",
+        "valorFondo0": "50.3953736",
+        "valorFondo1": "60.3953736",
+        "valorFondo2": "60.3953736",
+        "valorFondo3": "60.3953736"
+      },
+      {
+        "fecha": "09/21",
+        "valorFondo0": "20.3953736",
+        "valorFondo1": "70.3953736",
+        "valorFondo2": "75.3953736",
+        "valorFondo3": "70.3953736"
+      },
+      {
+        "fecha": "10/21",
+        "valorFondo0": "30.3953736",
+        "valorFondo1": "80.3953736",
+        "valorFondo2": "55.3953736",
+        "valorFondo3": "80.3953736"
+      },
+      {
+        "fecha": "11/21",
+        "valorFondo0": "40.3953736",
+        "valorFondo1": "70.3953736",
+        "valorFondo2": "32.3953736",
+        "valorFondo3": "70.3953736"
+      }
+    ],
+    "maximo": "80.3953736",
+    "medio": "28.0368218",
+    "medioFondo0": "28.0368218",
+    "medioFondo1": "30.3953736",
+    "medioFondo2": "40.3953736",
+    "medioFondo3": "50.3953736"
+  }
+}

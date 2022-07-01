@@ -1,0 +1,31 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": {
+    "celular": "988888888",
+    "prefijoDireccion": "CAR.",
+    "refDireccion": "NJAKAB",
+    "direccion": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAD",
+    "email": "PRUEBG10@GMAIL.COM",
+    "cuspp": "241341EPVCQ0",
+    "prefijoLocalidad": "CAS.",
+    "localidad": "AAAAAAAAAAAAAAADDDDDDDAAAAAAAAAADDDDDDDDDD",
+    "codPaisNacimiento": "114",
+    "pais": "PERU",
+    "codDepartamento": "03",
+    "departamento": "APURIMAC",
+    "codProvincia": "04",
+    "provincia": "AYMARAES",
+    "codDistrito": "02",
+    "distrito": "CAPAYA",
+    "primerNombre": "EDINSON",
+    "segundoNombre": "RICARDO",
+    "primerApellido": "CMOBOLS",
+    "segundoApellido": "PSVJMUQ",
+    "codTipoDocumento": "00",
+    "tipoCuenta": "DNI",
+    "numeroDocumento": "01111111",
+    "fechaNacimiento": "29/01/1966",
+    "sexo": "M"
+  }
+}

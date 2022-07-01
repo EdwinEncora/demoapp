@@ -1,0 +1,46 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": [
+    {
+      "seed": "0",
+      "number": "0"
+    },
+    {
+      "seed": "1",
+      "number": "1"
+    },
+    {
+      "seed": "2",
+      "number": "2"
+    },
+    {
+      "seed": "3",
+      "number": "3"
+    },
+    {
+      "seed": "4",
+      "number": "4"
+    },
+    {
+      "seed": "5",
+      "number": "5"
+    },
+    {
+      "seed": "6",
+      "number": "6"
+    },
+    {
+      "seed": "7",
+      "number": "7"
+    },
+    {
+      "seed": "8",
+      "number": "8"
+    },
+    {
+      "seed": "9",
+      "number": "9"
+    }
+  ]
+}

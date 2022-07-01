@@ -1,0 +1,11 @@
+{
+    "codigo": 200,
+    "mensaje": "",
+    "data": {
+      "codigo": "",
+      "mensaje": "",
+      "rpta": "true",
+      "nroTicket": "00000",
+      "fechaGeneracion": "26/01/2022"
+    }
+  }

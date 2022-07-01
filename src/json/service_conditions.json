@@ -1,0 +1,7 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": {
+    "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus ante augue, ac rhoncus sem sagittis ut. Aliquam metus purus, finibus quis risus rhoncus, dignissim bibendum quam. Nunc pulvinar, odio eu aliquet convallis, eros augue malesuada nibh, nec fringilla odio dolor id sapien. Pellentesque malesuada sem sed erat euismod, vel rutrum purus accumsan. Donec rhoncus bibendum libero, a imperdiet dui egestas sit amet. Duis sem ex, laoreet in pellentesque ac, laoreet et massa. Maecenas luctus dictum velit, eget pulvinar nulla lobortis ut. Ut at libero non lacus eleifend tempor. Phasellus quis volutpat nisl, at auctor arcu.\n\nEtiam ipsum magna, dignissim non viverra at, molestie volutpat arcu. Nulla eu sapien facilisis, volutpat velit vitae, pellentesque eros. Cras tellus neque, feugiat vel leo quis, consequat porta libero. Nulla aliquet, libero non porta pretium, dui nisl finibus lacus, vitae venenatis nulla diam non elit. Suspendisse sed erat a tortor scelerisque convallis. Vestibulum facilisis laoreet ante. Pellentesque sagittis ipsum urna, a feugiat leo semper eget. Nam dolor turpis, commodo vitae feugiat non, blandit vitae lectus. Nam consequat iaculis turpis ac molestie. Aliquam non mi lorem. Nullam accumsan, libero at scelerisque sodales, tellus tellus elementum ligula, eu eleifend nulla est et justo. Etiam fringilla nec ante quis convallis. Fusce pretium tellus nunc, eget tempus ligula accumsan in. Maecenas eu hendrerit nibh."
+  }
+}

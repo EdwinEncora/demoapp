@@ -1,0 +1,31 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": {
+    "datos": [
+      {
+        "periodo": "03/20",
+        "saldo": "149875.67"
+      },
+      {
+        "periodo": "04/20",
+        "saldo": "152555.84"
+      },
+      {
+        "periodo": "05/20",
+        "saldo": "158659.3"
+      },
+      {
+        "periodo": "06/20",
+        "saldo": "160483.97"
+      },
+      {
+        "periodo": "07/20",
+        "saldo": "160483.97"
+      }
+    ],
+    "valorMaximo": "161k",
+    "valorMedio": "152k",
+    "totalPaginas": "5"
+  }
+}

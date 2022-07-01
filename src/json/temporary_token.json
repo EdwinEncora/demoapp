@@ -1,0 +1,8 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": {
+    "rpta": "true",
+    "mensaje": "Tu clave temporal de confirmación fue enviada correctamente y tiene una vigencia de 5 minuto(s)."
+  }
+}

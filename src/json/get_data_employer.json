@@ -1,0 +1,72 @@
+{
+    "codigo": 200,
+    "mensaje": "",
+    "datosEmpleador": [
+      {
+        "nombreEmpleador":"Profuturo",
+        "razonSocial": "PROFUTURO AFP",
+        "RUC": "20142829551",
+        "dateRRLL": "01/11/2018",
+        "telefono": "01-2152800",
+        "anexo": "-",
+        "direccion": "Cl.Coronel Andres Reye # 489 San Isidro - Lima",
+        "referencia": "Esquina con Rivera Nabarrete",
+        "email": "rcaceda@profuturo.com.pe"
+      },
+      {
+        "nombreEmpleador":"Profuturo",
+        "razonSocial": "PROFUTURO AFP",
+        "RUC": "20142829551",
+        "dateRRLL": "01/11/2018",
+        "telefono": "01-2152800",
+        "anexo": "-",
+        "direccion": "Cl.Coronel Andres Reye # 489 San Isidro - Lima",
+        "referencia": "Esquina con Rivera Nabarrete",
+        "email": "rcaceda@profuturo.com.pe"
+      },
+      {
+        "nombreEmpleador":"Profuturo",
+        "razonSocial": "PROFUTURO AFP",
+        "RUC": "20142829551",
+        "dateRRLL": "01/11/2018",
+        "telefono": "01-2152800",
+        "anexo": "-",
+        "direccion": "Cl.Coronel Andres Reye # 489 San Isidro - Lima",
+        "referencia": "Esquina con Rivera Nabarrete",
+        "email": "rcaceda@profuturo.com.pe"
+      },
+      {
+        "nombreEmpleador":"Profuturo",
+        "razonSocial": "PROFUTURO AFP",
+        "RUC": "20142829551",
+        "dateRRLL": "01/11/2018",
+        "telefono": "01-2152800",
+        "anexo": "-",
+        "direccion": "Cl.Coronel Andres Reye # 489 San Isidro - Lima",
+        "referencia": "Esquina con Rivera Nabarrete",
+        "email": "rcaceda@profuturo.com.pe"
+      },
+      {
+        "nombreEmpleador":"Profuturo",
+        "razonSocial": "PROFUTURO AFP",
+        "RUC": "20142829551",
+        "dateRRLL": "01/11/2018",
+        "telefono": "01-2152800",
+        "anexo": "-",
+        "direccion": "Cl.Coronel Andres Reye # 489 San Isidro - Lima",
+        "referencia": "Esquina con Rivera Nabarrete",
+        "email": "rcaceda@profuturo.com.pe"
+      },
+      {
+        "nombreEmpleador":"Profuturo",
+        "razonSocial": "PROFUTURO AFP",
+        "RUC": "20142829551",
+        "dateRRLL": "01/11/2018",
+        "telefono": "01-2152800",
+        "anexo": "-",
+        "direccion": "Cl.Coronel Andres Reye # 489 San Isidro - Lima",
+        "referencia": "Esquina con Rivera Nabarrete",
+        "email": "rcaceda@profuturo.com.pe"
+      }
+    ]
+  }

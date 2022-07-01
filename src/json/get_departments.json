@@ -1,0 +1,30 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "data": [
+    {
+      "codOpcion": "01",
+      "desOpcion": "LIMA"
+    },
+    {
+      "codOpcion": "02",
+      "desOpcion": "CUZCO"
+    },
+    {
+      "codOpcion": "03",
+      "desOpcion": "TRUJILLO"
+    },
+    {
+      "codOpcion": "04",
+      "desOpcion": "PIURA"
+    },
+    {
+      "codOpcion": "05",
+      "desOpcion": "AREQUIPA"
+    },
+    {
+      "codOpcion": "06",
+      "desOpcion": "PUNO"
+    }
+  ]
+}
