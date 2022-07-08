@@ -101,6 +101,9 @@ app.use(`${URL_BASE}/api/send_pdf_voucherpay`, require('./routes/send_pdf_vouche
 app.use(`${URL_BASE}/generico/get_data_employer`, require('./routes/get_data_employer'));//POST DUMMY
 app.use(`${URL_BASE}/generico/get_voucher_info`, require('./routes/get_voucher_info'));//GET DUMMY
 
+//difruta 
+app.use(`${URL_BASE}/generico/get_disfruta_category`, require('./routes/get_disfruta_category'));//GET DUMMY
+
 
 app.listen(app.get('port'),()=>{
     console.log(`Server listening on port ${app.get('port')}`);

@@ -1,8 +1,15 @@
 {
+
   "codigo": 200,
-  "mensaje": "",
+
+  "mensaje": "OK",
+
   "data": {
-    "rpta": "V0Nsiv/j2pfgMw6k13UgBBBnsUGjjElPU2n5B1OFZZzAVuOZ6YbFRZ4gC9bdNatUYZeWhWB/dTQJf6zVM20xbiItdAjHr0f5WThOdQ9aT0mufTza8koJvAH9IEw7IMPlolqzojT4b8bdXLKXbedA7wmIIodxCxA+YgCRFryDrMO3eiFoe2Li6VRc6C15lgnnK7svlTUrmXD7+MjO85iCPC+0ITgX8uxUH90SNHXEVLm2O/5W/Qvm6YBTTUohV4ULA9wKNRuRc84r+AmUaPgCI/LYBU8MX/hCLb12tME4wPyugGwB6FOT/33+FaV/6xRM3g3nvlDcW/yzX7DlUFA9VQ==",
-    "mensaje": "Validación Satisfactoria."
+
+      "rpta": "WzdW5YbCo9pnkLe5R6cFd4KWMG7yQKgAzoixDHwu9bGa43Q9EqzI8Ye/iGR0UqyWx+xuiGTR8K7ffEBvovRNQNVuzPvP6/bv1ivfpyJ2RKcWW7iTPrCmIoL3UIkNa+zUCxLH5d5vikj6uw1MS7ozgoKOQi5yCUrX6FcdgE+cFXJm1L4h9nm73Oi9jDccu6OfYOIwApKhMpUn8qeAA6AQd7HFTs9CoNf+jFg4dRWcQrGeIB4/+VtIz5sBkl3SMdr8MBsVUfqd7oFbpGzduRwcJVqMfmSdHEwPJKEFAJS7MPi4QT+/LyaH3d7VSCVkeng5gPPWfsbJ9/LZHxaGDOfjMw==",
+
+      "mensaje": "Validacion Incorrecta."
+
   }
+
 }

@@ -1,0 +1,30 @@
+{
+  "codigo": 200,
+  "mensaje": "",
+  "categorias": [
+    {
+       "id": 1,
+       "categoria": "Bienestar"
+    },
+    {
+        "id": 2,
+        "categoria": "Estilo de vida"
+    },
+    {
+        "id": 3,
+        "categoria": "Entretenimiento"
+    },
+    {
+        "id": 4,
+        "categoria": "Viajes"
+    },
+    {
+        "id": 5,
+        "categoria": "Hogar"
+    },
+    {
+        "id": 6,
+        "categoria": "Educación"
+    }
+  ]
+}

@@ -8,15 +8,47 @@
         "descripcion": "Mi cuenta"
       },
       {
+        "codigo": "OPC0143",
+        "descripcion": "Estado de cuenta"
+      },
+      {
         "codigo": "OPC0144",
         "descripcion": "Fondos profuturo"
+      },
+      {
+        "codigo": "OPC0145",
+        "descripcion": "Retiro de 95.5 de tu fondo"
       },
       {
         "codigo": "OPC0146",
         "descripcion": "Mi perfil"
       },
       {
+        "codigo": "OPC0147",
+        "descripcion": "Cambio de fondo"
+      },
+      {
+        "codigo": "OPC0148",
+        "descripcion": "Reconocimiento facial"
+      },
+      {
         "codigo": "OPC0149",
+        "descripcion": "Mi clave web"
+      },
+      {
+        "codigo": "7070777",
+        "descripcion": "Constancias"
+      },
+      {
+        "codigo": "6060666",
+        "descripcion": "Comprobantes de pago"
+      },
+      {
+        "codigo": "5050555",
+        "descripcion": "Disfruta Profuturo"
+      },
+      {
+        "codigo": "OPC0150",
         "descripcion": "Cerrar Sesión"
       }
     ]
